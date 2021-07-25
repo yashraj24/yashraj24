@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashraj24
-- 👀 I’m interested in DevOps, Cloud Architecht, Automation using ansible and python
-- 🌱 I’m currently learning Kuberentes, jenkins and Machine Learning
+- 👀 I’m interested in DevOps, Cloud Architecht, Automation using ansible, python and terraform
+- 🌱 I’m currently learning Kuberentes, jenkins, terraform and Machine Learning
 - 💞️ I’m looking to collaborate on Devops projects, Cloud computing projects and automation projects 
 - 📫 How to reach me at yashrajpanda24@gmail.com
 
